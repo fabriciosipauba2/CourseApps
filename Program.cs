@@ -7,9 +7,11 @@ namespace CourseApps
     {
         public static void Main(string[] args)
         {
-            
+
             //Calculadora.Menu();
-            StopWatch.Menu();
+            //StopWatch.Menu();
+            //ReserveStopWatch.Menu();
+            TextEditor.Menu();
 
         }
     }
