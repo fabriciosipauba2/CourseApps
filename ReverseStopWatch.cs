@@ -4,8 +4,8 @@ namespace CourseApps
 {
 
 
-public class ReserveStopWatch
-{
+public class ReverseStopWatch
+    {
     
     public static void Menu()
     {
